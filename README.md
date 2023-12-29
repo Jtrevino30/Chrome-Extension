@@ -1,1 +1,1 @@
-# Chrome-Extension
+An extension that can be used in Chrome to save url tabs in your browser if you want to look at those later, save your own inputs, delete all your inputs and will keep all your saved inputs even on a refresh. 
